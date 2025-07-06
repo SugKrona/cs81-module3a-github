@@ -4,7 +4,7 @@
 
 ## What did you learn about using Git and GitHub?
 
--Through this assignment, I learned how to initialize and configure a local Git repository, stage and commit code changes, and synchronize those changes with a remote GitHub repository. The experience helped me understand how commits create a timeline of progress and how GitHub acts as a centralized platform for storing and managing code collaboratively.
+- Through this assignment, I learned how to initialize and configure a local Git repository, stage and commit code changes, and synchronize those changes with a remote GitHub repository. The experience helped me understand how commits create a timeline of progress and how GitHub acts as a centralized platform for storing and managing code collaboratively.
 
 ## What was most confusing or frustrating?
 
