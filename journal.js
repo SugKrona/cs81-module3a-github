@@ -1,3 +1,6 @@
+// Gustavo Corona
+//Journal.js made July 6, 2025
+
 // Greet a user by name
 function greet(name) {
   return "Hello, " + name + "!";
